@@ -2,10 +2,10 @@
   {
     "name": "Tachiyomi: MangaVault",
     "pkg": "eu.kanade.tachiyomi.extension.all.mangavault",
-    "apk": "tachiyomi-all.mangavault-v1.4.70.apk",
+    "apk": "tachiyomi-all.mangavault-v1.4.71.apk",
     "lang": "all",
-    "code": 70,
-    "version": "1.4.70",
+    "code": 71,
+    "version": "1.4.71",
     "nsfw": 0,
     "sources": [
       {
